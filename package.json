@@ -1,10 +1,11 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "LordCowBoy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "python3 -m http.server 4173",
+    "test": "echo \"No tests configured for this static mockup\""
   },
   "private": true
 }
